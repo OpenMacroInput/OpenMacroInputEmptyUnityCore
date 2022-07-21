@@ -11,7 +11,7 @@ OMI can be use for:
 - VR & AR Macro in Game
 - ...
 
-This tool as a very big potential in different range of industry.  
+This tool has a very big potential in different range of industries.  
 
 You can understand that:  
 - the sound designer don't need a key logger in the app that the pro gramer need.  

@@ -11,12 +11,12 @@ OMI can be use for:
 - VR & AR Macro in Game
 - ...
 
-This tool as a very big potential in different range of industry.
+This tool as a very big potential in different range of industry.  
 
-You can understand that:
-- the sound designer don't need a key logger in the app that the pro gramer need.
-- the VR & AR app don't need a MIDI in/out system in his app.
+You can understand that:  
+- the sound designer don't need a key logger in the app that the pro gramer need.  
+- the VR & AR app don't need a MIDI in/out system in his app.  
 
-But all the user need Command that can be executed at precised time depending on specific condition.
-This repository to start on that is a commun ground for all fork and mod users.
+But all the user need Command that can be executed at precised time depending on specific condition.  
+This repository to start on that is a commun ground for all fork and mod users.  
 
